@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "995356823510",
+    "project_id": "fakhravari",
+    "storage_bucket": "fakhravari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995356823510:android:2a9f53819fd9f57ba6de77",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116945366878876893548",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHlV7fAsXxQzUtXVFckhT6MpnIuF6kWbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116945366878876893548",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995356823510:android:c7f2088502d785afa6de77",
+        "android_client_info": {
+          "package_name": "com.example.messagingdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116945366878876893548",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHlV7fAsXxQzUtXVFckhT6MpnIuF6kWbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116945366878876893548",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
