@@ -1,3 +1,3 @@
 پوش نوتیفیکیشن در فلاتر
 <br>
-ارسال پوش از asp .net mvc core 8
+بکند = ASP.NET Core 8
